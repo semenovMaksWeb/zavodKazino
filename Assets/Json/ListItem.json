@@ -1,0 +1,12 @@
+[
+    {
+        "const_name": "ironOre",
+        "name": "Железная руда",
+        "type": "loot",
+        "drop_chance": 0.4,
+        "price": 100,
+        "sale": 50,
+        "description": "Железная руда",
+        "image": "url"
+    }
+]
